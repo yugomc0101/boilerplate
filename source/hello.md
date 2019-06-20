@@ -17,8 +17,6 @@ date: 2019-02-07
 - [ ] incomplete
 - [x] completed
 
-Here's an example:
-
 ​```
 function test() {
   console.log("notice the blank line before this function?");
