@@ -10,17 +10,8 @@ date: 2019-02-07
 
 当ブログでは、情報系専門学校生のyugorbitが、独り言を投稿していくサイトです。
 
-## SAMPLE達
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
-
-```javascript
-function test() {
-  console.log("notice the blank line before this function?");
-}
+```java
+System.out.println("Hello World !!!!!");
 ```
 
 ## Useful links
