@@ -5,7 +5,10 @@ date: 2019-02-07
 
 ## Hello world
 
-Welcome to GitPress. This is your first post.
+ハロー！ワールド！
+今日よりGitPressでのブログ運用をはじめました！
+
+当ブログでは、情報系専門学校生のyugorbitが、独り言を投稿していくサイトです。
 
 ## Useful links
 
