@@ -1,5 +1,5 @@
 ---
-title: Say Hello to the world
+title: はじめまして世界。 for Git
 date: 2019-02-07
 ---
 
